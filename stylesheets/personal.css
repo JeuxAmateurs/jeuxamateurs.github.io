@@ -1,0 +1,19 @@
+@import url(stylesheet.css);
+
+h2 {
+	text-align: left;
+}
+
+section {
+	text-align: center;
+}
+
+.member {
+	max-width: 280px;
+	display: inline-block;
+	padding: 0 10px;
+}
+
+.member figure img {
+	width: 150px;
+}
