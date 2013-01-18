@@ -17,3 +17,17 @@ section {
 .member figure img {
 	width: 150px;
 }
+
+sup {
+	vertical-align: super;
+	font-size: small;
+}
+
+.flag {
+	width: 14px;
+	padding: 0;
+	box-shadow: none;
+	border: none;
+	position: absolute;
+	top: 0;
+}
